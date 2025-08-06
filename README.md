@@ -113,11 +113,12 @@ As a **Data Analyst**, I’ve worked on cleaning, analyzing, and visualizing dat
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio Website:** [https://preview--dev-mathew-folio.lovable.app/](https://preview--dev-mathew-folio.lovable.app/)  
-- 💻 **GitHub:** [https://github.com/mathew512](https://github.com/mathew512)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/mathew-kasanga-10368022a/](https://www.linkedin.com/in/mathew-kasanga-10368022a/)  
-- 📧 **Email:** mathewkasnga59@gmail.com  
-- 📞 **Phone:** 0717189463  
+- 🌐 [**Visit Portfolio Website**](https://preview--dev-mathew-folio.lovable.app/)
+- 💻 [**View My GitHub Profile**](https://github.com/mathew512)
+- 💼 [**Connect on LinkedIn**](https://www.linkedin.com/in/mathew-kasanga-10368022a/)
+- 📧 [**Send Me an Email**](mailto:mathewkasnga59@gmail.com)
+
+
 
 ---
 
