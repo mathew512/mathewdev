@@ -1,63 +1,125 @@
-<!-- Header Banner -->
+<!-- Portfolio Header -->
 
+<h1 align="center">👋 Hi there, I'm Mathew Kasanga</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Data Analyst</h3>
 
-<h1 align="center">Hi there, I'm Mathew 👋</h1>
-<h3 align="center">A Full-Stack Developer</h3>
-
-<br/>
-
-<!-- About Me Section -->
 <p align="center">
-  Passionate full-stack developer specializing in modern web technologies, blockchain development, and creating innovative digital solutions.
-</p>
-
-<br/>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mathew-kasanga-10368022a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Mathewkasa92828" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:mathewkasnga59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+📞 0717189463 • 📧 mathewkasnga59@gmail.com  
 </p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 About Me
 
-| Project         | Description                                                                 | Status            | 
-|-----------------|-----------------------------------------------------------------------------|-------------------|
-| **Project Phoenix** | Full-stack project management app (MERN stack)                            | In Development 🚧 | 
-| **Folio-UI**        | Modern, accessible UI component library for React                         | Planning Phase 📝 | 
-| **API-Gateway**     | Scalable API gateway using Node.js and Express                            | On Hold ⏸️        | 
+I am a passionate and solution-oriented **Software Engineer** with a strong foundation in **full-stack development**, **data analytics**, and **modern tech stacks**. I love building impactful digital products that solve real-world problems, from e-commerce platforms to financial applications.
+
+With a background in both **software engineering** and **data analysis**, I bring a unique blend of coding, creativity, and analytical thinking. I enjoy transforming complex data into meaningful insights and delivering clean, scalable code across both front and back ends.
 
 ---
 
-## 💻 My Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" alt="Figma"/>
-</p>
-
-<p align="center">
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" alt="GraphQL"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker"/>
-</p>
+### 👨‍💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ---
+
+### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+### 📊 Data Analytics & Visualization
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
+---
+
+## 📦 Portfolio Projects
+
+### 1. 🛒 E-commerce Web App  
+**Tech Stack:** React.js, Node.js, Express, MongoDB  
+A full-featured e-commerce platform with product catalog, user authentication, cart, and admin dashboard. Implemented payment integration and responsive design for optimal UX.
+
+➡️ *Features:*  
+- Secure login and registration  
+- Dynamic product pages  
+- Shopping cart and checkout system  
+- Admin panel for inventory management  
+
+---
+
+### 2. 📱 Mobile Banking App  
+**Tech Stack:** Flutter, Firebase, Dart  
+Designed and developed a modern mobile banking app allowing users to manage accounts, transfer funds, and view transaction history in real-time.
+
+➡️ *Features:*  
+- Biometric login  
+- Secure fund transfers  
+- Live balance updates  
+- Push notifications and transaction receipts  
+
+---
+
+### 3. 🚀 StarEdge Business Platform *(In Progress)*  
+**Tech Stack:** React.js, Node.js, PostgreSQL  
+A SaaS business platform aimed at helping SMEs manage operations, sales, and reporting. Currently building modules for client management, invoicing, and analytics dashboard.
+
+➡️ *Features in development:*  
+- Client CRM  
+- Automated invoicing  
+- Business analytics & reporting dashboard  
+
+---
+
+## 📊 Data Analytics Work
+
+As a **Data Analyst**, I’ve worked on cleaning, analyzing, and visualizing data to uncover insights and inform decision-making.
+
+**Tools & Libraries:**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (PostgreSQL, MySQL)  
+- Power BI, Excel
+
+➡️ *Projects:*  
+- Sales forecasting models  
+- Customer behavior analysis  
+- Market segmentation dashboards  
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 **Portfolio Website:** [https://preview--dev-mathew-folio.lovable.app/](https://preview--dev-mathew-folio.lovable.app/)  
+- 💻 **GitHub:** [https://github.com/mathew512](https://github.com/mathew512)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mathew-kasanga-10368022a/](https://www.linkedin.com/in/mathew-kasanga-10368022a/)  
+- 📧 **Email:** mathewkasnga59@gmail.com  
+- 📞 **Phone:** 0717189463  
+
+---
+
+> 💡 *"Code is not just about logic — it's about building tools that empower people."*
 
