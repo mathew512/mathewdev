@@ -55,14 +55,24 @@ With a background in both **software engineering** and **data analysis**, I brin
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
 ---
 
 ## 📦 Portfolio Projects
+### 1. 🌐 DeFi Analytics Dashboard  
+**Tech Stack:** Next.js, Web3.js, Solidity, Ethereum Smart Contracts  
+Developed a decentralized finance (DeFi) dashboard for investors to track liquidity pools, token performance, and staking rewards. Integrated wallet connection (MetaMask) and live on-chain data fetching.
 
-### 1. 🛒 E-commerce Web App  
+➡️ *Features:*  
+- Real-time token price & liquidity pool tracking  
+- Wallet connect (MetaMask, WalletConnect)  
+- Staking & yield farming overview  
+- Interactive charts and analytics  
+
+### 2. 🛒 E-commerce Web App  (_frontend complited_)
 **Tech Stack:** React.js, Node.js, Express, MongoDB  
 A full-featured e-commerce platform with product catalog, user authentication, cart, and admin dashboard. Implemented payment integration and responsive design for optimal UX.
 
@@ -74,7 +84,7 @@ A full-featured e-commerce platform with product catalog, user authentication, c
 
 ---
 
-### 2. 📱 Mobile Banking App  
+### 3. 📱 Mobile Banking App  (_in progress_)
 **Tech Stack:** Flutter, Firebase, Dart  
 Designed and developed a modern mobile banking app allowing users to manage accounts, transfer funds, and view transaction history in real-time.
 
@@ -86,7 +96,7 @@ Designed and developed a modern mobile banking app allowing users to manage acco
 
 ---
 
-### 3. 🚀 StarEdge Business Platform *(In Progress)*  
+### 4. 🚀 StarEdge Business Platform *(In Progress)*  
 **Tech Stack:** React.js, Node.js, PostgreSQL  
 A SaaS business platform aimed at helping SMEs manage operations, sales, and reporting. Currently building modules for client management, invoicing, and analytics dashboard.
 
@@ -104,7 +114,7 @@ As a **Data Analyst**, I’ve worked on cleaning, analyzing, and visualizing dat
 **Tools & Libraries:**  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL (PostgreSQL, MySQL)  
-- Power BI, Excel
+- Tableau, Power BI, Excel
 
 ➡️ *Projects:*  
 - Sales forecasting models  
